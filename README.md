@@ -1,5 +1,5 @@
 <html>
-<!DOCTYPE html><html lang="ja">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -94,6 +94,6 @@
 </section>
 
   </main>  <footer>
-  
-  </footer></body>
+  ⓒDEO 2026
+ </footer></body>
 </html>
