@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>梶山秀一｜公式ホームページ</title>
+  <title>梶山秀一のホームページ</title>
   <style>
     body {
       margin: 0;
@@ -65,7 +65,7 @@
 </head>
 <body>  <header>
     <h1>梶山 秀一</h1>
-    <p>闇よりいでて闇より暗い漆黒の戦士</p>
+    <p>10年に1人の天才</p>
   </header>  <nav>
     <a href="#about"></a>
     <a href="#activities"></a>
