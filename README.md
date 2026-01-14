@@ -65,7 +65,7 @@
 </head>
 <body>  <header>
     <h1>梶山 秀一</h1>
-    <p>10年に1人の天才</p>
+    <p>世界の帝王</p>
   </header>  <nav>
     <a href="#about"></a>
     <a href="#activities"></a>
@@ -74,11 +74,12 @@
     <section id="about">
       <h2>本日の一言</h2>
       <p>
-        ちんこ痛すぎる😭
+       人生終わった…
       </p>
     </section><section id="activities">
   <h2>本日のNEWS</h2>
   <ul>
+    <li>おわた</li>
     <li>ちんこ終わった</li>
     <li>夜更かしした</li>
     <li>宿題無くした</li>
